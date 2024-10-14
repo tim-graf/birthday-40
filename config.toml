@@ -1,7 +1,7 @@
 theme = "hayflow"
 
 # The URL the site will be built for
-base_url = "https://github.com/tim-graf/birthday-40"
+base_url = "https://tim-graf.github.io/birthday-40/"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = false
