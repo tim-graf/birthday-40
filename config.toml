@@ -1,4 +1,4 @@
-theme = "hayflow"
+theme = "anemone"
 
 # The URL the site will be built for
 base_url = "https://tim-graf.github.io/birthday-40/"
@@ -16,5 +16,7 @@ highlight_code = false
 
 [extra]
 # Put all your custom variables here
-name = { first = "Tims", last = "40. Geburtstag" }
-sections = ["Wo", "Anfahrt", "Essen", "Geschenk"]
+#name = { first = "Tims", last = "40. Geburtstag" }
+#sections = ["Wo", "Anfahrt", "Essen", "Geschenk"]
+header_nav = [
+  { url = "/", name_en = "/home/" }]
