@@ -15,7 +15,10 @@ Hierbei handelt es sich um einen schmalen Nebenweg.
 
 ## Auto 
 
-Parkmöglichkeiten muss ich noch eruieren
+Vor dem Zugang zum Clubraum gibt es Parkplätze 4-5 PKW, die über den Nebenweg erreicht erreicht werden können.
+Die Zufahrt ist recht schmal und wenn mal von oben kommt, ist die Kurve steiler als 90 Grad. Dementsprechend seid bitte vorsichtig. 
+
+![Hier könnte ihr Text stehen](static/zufahrt.png)
 
 ## Bus und Bahn
 
