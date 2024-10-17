@@ -15,10 +15,22 @@ Hierbei handelt es sich um einen schmalen Nebenweg.
 
 ## Auto 
 
+### Parken direkt vor dem Eingang
+
 Vor dem Zugang zum Clubraum gibt es Parkplätze 4-5 PKW, die über den Nebenweg erreicht erreicht werden können.
 Die Zufahrt ist recht schmal und wenn mal von oben kommt, ist die Kurve steiler als 90 Grad. Dementsprechend seid bitte vorsichtig. 
 
  <img src="zufahrt.png" /> 
+
+### Alternative Parkplätze 
+
+ Die angenehmere Zufahrt und mehr Parkplätze gibt es unterhalb der Location.  Hierfür könnt ihr die [Wasserfreunde Wuppertal, Bendahler Str. 236](https://maps.app.goo.gl/iLFKQxvs55mEBYso9) als Ziel angeben und dann auf dem dazugehörigen großen Parkplatz parken. 
+
+ <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1221.0176609200203!2d7.163623488981018!3d51.24915827121579!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47b8d633c235ef81%3A0xea349e25a8f6e116!2sWasserfreunde%20Wuppertal%201883%20e.%20V.!5e1!3m2!1sde!2sde!4v1729200521084!5m2!1sde!2sde" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+ Ihr verlasst den Parkplatz in Richtung bergauf und nutzt sofort einen kleinen Waldweg auf der rechten Seite und seid nach 2-3 Minuten direkt vor dem Eingang. Dabei habt ihr auf der rechten Seite die meiste Zeit den Zaun des Schwimmbadgeländes. Allerdings ist kleine Weg nicht beleuchtet, mit Laub bedeckt und an einer Stelle etwas matschig. Richtet euch also darauf ein, das Handy als Taschenlampe zu nutzen und zieht nicht eurer feinstes Schuhwerk an.
+
+ <img src="zugang_unten.jpg">
 
 ## Bus und Bahn
 
