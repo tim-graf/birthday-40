@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+Allow: /
+Sitemap: https://tim-graf.github.io/birthday-40/sitemap.xml
